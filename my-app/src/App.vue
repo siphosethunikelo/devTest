@@ -1,6 +1,6 @@
 <template>
   <div id="app">
-    <HelloWorld msg="Home page"/>
+     <HelloWorld msg="Home page dev"/>
   </div>
 </template>
 
